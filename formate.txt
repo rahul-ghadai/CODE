@@ -1,0 +1,19 @@
+1.welcome page
+{knight valapage ko all edit with picture and page details}
+
+
+
+
+2.login(password, face recognition),signin ,forgetpassword
+{sbadmin features pages edit}
+
+
+
+3.dashboard(electrical only)
+{all chart depend on values }
+
+
+
+
+4.code talking and listning features all
+{microphone and speaker with animation}
